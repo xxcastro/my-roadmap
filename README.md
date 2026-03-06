@@ -1,8 +1,3 @@
-¡Uf! Tienes razón, eso se ve como una "pared de texto" difícil de leer. El problema es que GitHub (y la mayoría de visores de Markdown) necesitan **saltos de línea reales** para renderizar los encabezados y las listas correctamente. Si todo está pegado en una sola línea, no reconoce el formato.
-
-Aquí tienes el código **corregido y listo para copiar**. He añadido espacios estratégicos para que se vea limpio y profesional en tu repositorio:
-
----
 
 ```markdown
 # 🚀 My Project Roadmap Dashboard
