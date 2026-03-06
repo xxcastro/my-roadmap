@@ -19,7 +19,6 @@ Un dashboard minimalista y eficiente diseñado para gestionar el progreso de mú
 * **Framework:** [React](https://reactjs.org/)
 * **Herramienta de Construcción:** [Vite](https://vitejs.dev/)
 * **Almacenamiento:** Browser LocalStorage API
-* **Estilos:** CSS3 / Tailwind (edita esto según lo que usaras)
 
 ---
 
