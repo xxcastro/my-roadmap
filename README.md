@@ -26,20 +26,20 @@ Un dashboard minimalista y eficiente diseñado para gestionar el progreso de mú
 ## 🚀 Instalación y Uso
 
 1. **Clona el repositorio:**
-   ```bash
+```
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
 
 ```
 
 2. **Instala las dependencias:**
-```bash
+```
 npm install
 
 ```
 
 
 3. **Lanza el servidor de desarrollo:**
-```bash
+```
 npm run dev
 
 ```
