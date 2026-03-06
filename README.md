@@ -1,5 +1,3 @@
-
-```markdown
 # 🚀 My Project Roadmap Dashboard
 
 Un dashboard minimalista y eficiente diseñado para gestionar el progreso de múltiples proyectos de forma independiente. Construido con **React** y **Vite**, este panel te permite visualizar tus metas de un vistazo y mantener un registro detallado de cada paso.
